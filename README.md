@@ -6,6 +6,24 @@
 
 You probably heard of it before or experience it every day since 2020: [Webcams aren't not really good](https://reincubate.com/support/how-to/why-are-webcams-bad/#putting-them-to-the-test), in fact they suck. Especially if your main webcam is on a [display which was manufactured nearly a decode ago](https://en.wikipedia.org/wiki/Apple_Thunderbolt_Display#Technical_specifications). Trying various solutions like a cheap webcam and a not-so-cheap GoPro brought me always back to the FaceTime cam on my iPhone. Combined with the excellent [Camo](https://reincubate.com/camo/) app, the quality of the picture is just not comparable to any other solution. However I needed a way to mount the iPhone on top of the display, so I decided to design something in Fusion 360. The pictures below show the process of various prototypes I printed, and the final solution in action. Download the files [here](./models/), have fun using/remixing them!
 
+## Photos
+
+- The first prototype
+
+<img src="./photos/first_prototype.jpg" width="500">
+
+- Testing the new design
+
+<img src="./photos/testing_new_design.jpg" width="500">
+
+- Testing the new design
+
+<img src="./photos/final_print.jpg" width="500">
+
+- It works
+
+<img src="./photos/usage.jpg" width="500">
+
 ## Resources
 
 - [Apple MagSafe Charger](https://www.apple.com/shop/product/MHXH3AM/A/magsafe-charger) - I used the MagSafe charger for my initial (very crude) measurements.
